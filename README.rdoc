@@ -1,3 +1,7 @@
+# Postit Application
+
+With this Reddit-like application, users can login, create posts, edit posts, leave comments, and up or down vote either. The app was developed using Ruby on Rails, ERB templates, ActiveRecord, and SQLite in a walk-through tutorial.
+
 == Getting Started
 
 1. Make sure you have rails version 4. Type "rails -v" to make sure.
